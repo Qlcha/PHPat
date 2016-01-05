@@ -8,9 +8,7 @@ require_once 'view parts/_page_base.php';
 <?= $site_data[PAGE_ID] ?>
 
 <div id="main"></div>
-<?php
-require_once 'view parts/_contact_form.php'
-?>
+<?php require_once 'view parts/_inscription_form.php' ?>
 
 
 
